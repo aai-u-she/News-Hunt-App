@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kim Kardashian buys Princess Diana amethyst cross at auction",
+      "description": "The reality TV star paid over £163,000 at Sotheby's for a necklace worn by Princess Diana.",
+      "url": "http://www.bbc.co.uk/news/uk-england-london-64330628",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1655C/production/_128348419_microsoftteams-image.png",
+      "publishedAt": "2023-01-19T13:52:24.4168473Z",
+      "content": "Kim Kardashian is the new owner of a necklace that was worn by Princess Diana.\r\nThe Attallah Cross was put up for sale at Sotheby's in London as part of its Royal and Noble Sale on Wednesday.\r\nFour p… [+1754 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Bafta nominations 2023: All Quiet On The Western Front leads Bafta nominations",
+      "description": "The World War One epic is the first film to score 14 or more nominations since The King's Speech in 2011.",
+      "url": "http://www.bbc.co.uk/news/live/entertainment-arts-64325800",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-01-19T13:07:32.7289162Z",
+      "content": "The Woman King stars Viola DavisImage caption: The Woman King stars Viola Davis\r\nSince 2020, Bafta has tried to level the playing field, ensuring its best director longlist, for example, has an even … [+1217 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Idaho murders: Search warrant details items seized from suspect's home",
+      "description": "The police are yet to find a murder weapon or a motive for the murders of four university students.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64325420",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F400/production/_128346426_gettyimages-1246019690.jpg",
+      "publishedAt": "2023-01-19T12:52:25.1985206Z",
+      "content": "A reddish-brown stained pillowcase and hair strands are among the items seized by the police from Idaho murder suspect Bryan Kohberger's apartment, according to an unsealed search warrant. \r\nMr Kohbe… [+1799 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "King Charles to divert Crown Estate windfall to 'public good'",
+      "description": "The King wants to cut the royal slice of Crown Estate profits, which are rising after a £1bn wind farm deal.",
+      "url": "http://www.bbc.co.uk/news/uk-64319323",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13910/production/_128344108_kingcharles-gettyimages-1455014530.jpg",
+      "publishedAt": "2023-01-19T12:52:21.9012245Z",
+      "content": "King Charles has asked for a surge in profits from six new offshore wind farms on the Crown Estate, worth £1bn, to be used for the \"wider public good\", rather than the Royal Family.\r\nThe Royal Househ… [+3088 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Ukraine admits retreat from front line town of Soledar",
+      "description": "Andrew Harding goes under fire on the front line in eastern Ukraine after recent Russian gains.",
+      "url": "http://www.bbc.co.uk/news/world-europe-64330808",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95D2/production/_128345383_46thbrigadefootageoffightinginsidesoledar.png",
+      "publishedAt": "2023-01-19T12:37:22.933158Z",
+      "content": "Ukrainian forces have acknowledged \"stepping back\" from the bitterly contested Donbas town of Soledar, captured by Russian forces last week in their first significant victory after many months in ret… [+4113 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "These Canadians are unfazed by new drink guidelines",
+      "description": "New guidance in Canada says no alcohol is best and two drinks maximum each week is deemed low-risk.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64322118",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B7EB/production/_128338074_p0dx597r.jpg",
+      "publishedAt": "2023-01-19T11:22:16.00956Z",
+      "content": "New national recommendations in Canada that say abstaining from alcohol is the only risk-free approach.\r\nBut if a person chooses to consume, two drinks maximum each week is deemed low-risk by the gov… [+217 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Gallery owner who hosed homeless woman in San Francisco arrested",
+      "description": "Collier Gwin is charged with battery after being filmed spraying a woman with a hose in San Francisco.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64329472",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1BF2/production/_128345170_gettyimages-475371683.jpg",
+      "publishedAt": "2023-01-19T10:22:21.5576374Z",
+      "content": "An San Francisco art gallery owner who sprayed a homeless woman with a hose has been arrested, police have said.\r\nCollier Gwin, 71, has been charged with misdemeanour battery, after a video of him sp… [+2277 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Julian Sands: British actor identified as hiker missing in southern California",
+      "description": "The 65-year-old was reported missing in the San Gabriel mountains last week amid bad weather.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64327393",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184C4/production/_128342599_gettyimages-1172212991.jpg",
+      "publishedAt": "2023-01-19T04:52:20.6820609Z",
+      "content": "British actor Julian Sands has been named as a hiker who went missing in the San Gabriel mountains last week.\r\nThe 65-year-old was reported missing in the Baldy Bowl area on Friday, amid bad weather … [+1283 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "How to be a more environmentally friendly coffee drinker",
+      "description": "A new study shows that coffee capsules are not as harmful to the environment as once thought.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64293750",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16638/production/_128340719_gettyimages-1270706124.jpg",
+      "publishedAt": "2023-01-19T02:37:19.1823228Z",
+      "content": "When it comes to making a cup of coffee, capsules have a reputation for being environmentally unfriendly, as they are often hard to recycle. \r\nBut new research by the University of Quebec in Canada s… [+4248 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "New Zealand PM Ardern to step down next month",
+      "description": "'I no longer have enough in the tank' - an emotional Jacinda Ardern says she will quit next month as New Zealand PM",
+      "url": "http://www.bbc.co.uk/news/world-asia-64327224",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-01-19T00:37:23.1214489Z",
+      "content": "\"I no longer have enough in the tank\" - an emotional Jacinda Ardern says she will quit next month as New Zealand PM.\r\nThe 42-year-old said almost six \"challenging\" years in the job had taken a toll.\r… [+494 chars]"
+    }
+  ]
+}
